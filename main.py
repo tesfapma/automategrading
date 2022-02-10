@@ -219,9 +219,6 @@ for i in range(1, total_question + 1):
                 print(wb[f'Q{i}']['D2'].value)
                 # for choice in range(wb[f'Q{i}']['D1'].value, wb[f'Q{i}']['D2'].value):
                 #     wb[f'Q{i}'][f'A{choice}'] = f'{choice}'
-
-
-
             else:
                 print("this is not an ODK question: no need to run autouiz ")
 wb.save(r'C:\Users\etale\Downloads\CS2020_Mekelle_RE_Final_Exam_V5_results.xlsx')
