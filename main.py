@@ -248,4 +248,3 @@ for i in range(1, total_question + 1):
             else:
                 print("this is not an ODK question: no need to run autouiz ")
 wb.save(r'C:\Users\etale\Downloads\CS2020_Mekelle_RE_Final_Exam_V5_results.xlsx')
-  this is an example commit push
