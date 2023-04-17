@@ -9,8 +9,8 @@
 # importing required libraries for automating the auto quizzes
 import sys
 import pandas as pd
-import numpy as np
-import openpyxl
+# import numpy as np
+# import openpyxl
 from openpyxl import load_workbook, Workbook
 from openpyxl.utils import get_column_letter
 from openpyxl.utils.cell import coordinate_from_string, column_index_from_string
