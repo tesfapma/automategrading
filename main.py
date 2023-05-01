@@ -5,7 +5,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 ## we are starting to automate the grading system for the RE training exams
-
+#Openpyxl verison: 3.0.3
 # importing required libraries for automating the auto quizzes
 import sys
 import pandas as pd
